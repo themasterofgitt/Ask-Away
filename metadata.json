@@ -1,0 +1,6 @@
+{
+  "name": "Ask Away",
+  "description": "A refined deck of discovery for partners to explore the unspoken spaces between them.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
